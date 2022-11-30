@@ -1,0 +1,33 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+
+
+
+
+
+
+-----Pandas------(libreria)
+1: Una Serie en Pandas es como una columna en una tabla.
+
+2: un DataFrame es la tabla completa. 
+
+
+
+
+-----NumPy------(libreria)
+NumPy es una biblioteca de Python utilizada para trabajar con matrices. 
+1:tipo  de datos
+i- entero
+b- booleano
+u- entero sin signo
+f- flotar
+c- flotador complejo
+m - timedelta
+M - datetime
+O - objeto
+S - cadena de texto
+U - letra//chart
+V - fixed chunk of memory for other type ( void )
+2: copy//view. uno utiliza una copi y el otro utiliza el original y se ven los cambios 

@@ -1,0 +1,6 @@
+deporte: futbol
+183.8
+deporte: basquet
+198.75
+deporte: natacion
+186.33333333333334

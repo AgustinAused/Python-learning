@@ -1,0 +1,68 @@
+
+Mediana = el valor en el medio, después de haber ordenado todos los valores ascendiendo(.mean())
+
+Media = el valor promedio (la suma de todos los valores dividida por el número de valores(.median())
+
+Moda = el valor que aparece con más frecuencia.(.mode()[])
+
+desviacion estardar:
+La desviación estándar es un número que describe qué tan dispersos están los valores.por ejemplo, Una desviación estándar baja significa que la mayoría de los números están cerca del valor medio (promedio) y Una desviación estándar alta significa que los valores se distribuyen en un rango más amplio.
+
+
+percentil:
+Los percentiles se usan en estadísticas para darte un número que describe el valor que un porcentaje dado de los valores es menor que. por ejemplo, el 90 % de los valores de datos se encuentra por debajo del percentil 90
+
+
+distribucion de datos normales o (normal data distribution)
+En la teoría de la probabilidad, este tipo de distribución de datos se conoce como distribución de datos normal o distribución de datos gaussiana , en honor al matemático Carl Friedrich Gauss, quien ideó la fórmula de esta distribución de datos.
+
+
+diagrama de dispercion:
+Un diagrama de dispersión es un diagrama donde cada valor en el conjunto de datos está representado por un punto.
+
+regrecion:
+el termino regrecion se usa cuando intenta encontrar la relacion entre varibles 
+En machine learning y el modelado estadistico, esa relacion se usa para predecir el resultado de eventos futuros
+
+regresion lineal:
+
+regresion polinomial:
+La regresión polinomial, como la regresión lineal, utiliza la relación entre las variables x e y para encontrar la mejor forma de dibujar una línea a través de los puntos de datos.
+
+Regresión múltiple
+La regresión múltiple es como la regresión lineal , pero con más de un valor independiente, lo que significa que tratamos de predecir un valor en función de dos o más variables.
+
+Coeficiente:
+El coeficiente es un factor que describe la relación con una variable desconocida.
+
+
+Funciones de escala
+Cuando sus datos tienen diferentes valores e incluso diferentes unidades de medida, puede ser difícil compararlos. ¿Qué son los kilogramos en comparación con los metros? ¿O la altitud en comparación con el tiempo?
+
+El método de estandarización utiliza esta fórmula:
+z = (x - u) / s
+===============
+Donde z es el nuevo valor, x es el valor original, u es la media y s es la desviación estándar
+
+
+
+Árbol de decisión:
+En este capítulo le mostraremos cómo hacer un "árbol de decisión". Un árbol de decisiones es un diagrama de flujo y puede ayudarlo a tomar decisiones basadas en la experiencia previa.
+En el ejemplo, una persona intentará decidir si debe ir a un programa de comedia o no.
+Afortunadamente, nuestra persona de ejemplo se ha registrado cada vez que hubo un espectáculo de comedia en la ciudad, y registró cierta información sobre el comediante, y también registró si asistió o no.
+
+
+
+
+relacion:(en el ej de tarea ejpanda)
+Correlación Perfecta:
+Podemos ver que "Duración" y "Duración" obtuvieron el número 1.000000, lo cual tiene sentido, cada columna siempre tiene una perfecta relación consigo misma.
+
+Buena correlación:
+"Duración" y "Calorías" obtuvieron un 0.922721 correlación, que es una muy buena correlación, y podemos predecir que cuanto más tiempo trabaje más calorías quemas, y al revés: si quemas muchas de calorías, probablemente tuviste mucho ejercicio.
+
+Mala correlación:
+"Duración" y "Maxpulse" obtuvieron una 0.009403correlación, que es una correlación muy mala, lo que significa que no podemos predecir el pulso máximo simplemente mirando la duración del ejercicio, y viceversa. 
+
+
+

@@ -1,0 +1,3 @@
+el nombre es: Juan
+el nombre es: lucas
+el nombre es: Jose

@@ -1,0 +1,2 @@
+import tuplas 
+tuplas.imprimir()
