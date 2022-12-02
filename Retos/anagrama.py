@@ -7,7 +7,5 @@
 
 def anagrama(str1,str2):
     return True if str1 == str2[::-1] else False 
-
-
 resultado = anagrama('hola','aloh')
 print(resultado)
